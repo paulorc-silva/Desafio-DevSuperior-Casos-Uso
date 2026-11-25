@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devsuperior</groupId>
-	<artifactId>movieflix</artifactId>
+	<artifactId>casos-uso</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>movieflix</name>
 	<description>Demo project for Spring Boot</description>
