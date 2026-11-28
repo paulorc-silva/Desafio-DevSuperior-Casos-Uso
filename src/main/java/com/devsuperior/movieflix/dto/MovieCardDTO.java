@@ -8,6 +8,14 @@ public class MovieCardDTO {
     private Integer year;
     private String imgUrl;
 
+    public MovieCardDTO(Long id, String title, String subTitle, Integer year, String imgUrl) {
+        this.id = id;
+        this.title = title;
+        this.subTitle = subTitle;
+        this.year = year;
+        this.imgUrl = imgUrl;
+    }
+
     public Long getId() {
         return id;
     }
